@@ -61,5 +61,10 @@ docs/_build/
 # PyBuilder
 target/
 
-# Emacs
+# Editors
 *~
+\#*\#
+
+# Hidden files
+.*
+
